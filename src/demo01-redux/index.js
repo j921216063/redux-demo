@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import { increment, decrement } from './actions';
 import { createStore } from 'redux';
 import reducer from './reducers/counter';
 
